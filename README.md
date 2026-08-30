@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# 📊 Prodigy InfoTech — Data Science Internship
+# Prodigy InfoTech — Data Science Internship
 
 ### Task 01 · Population Distribution & Exploratory Analysis
 
