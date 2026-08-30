@@ -7,7 +7,6 @@
 
 <p>
   <strong>World Bank Population Dataset Analysis</strong><br>
-  Data Cleaning • Exploratory Data Analysis • Visualization
 </p>
 
 
