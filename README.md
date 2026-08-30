@@ -24,6 +24,25 @@ For this task, I worked with the **World Bank Total Population** dataset and cou
 ---
 
 
+#  Technologies Used
+
+<div align="center">
+
+
+| Technology             | Purpose                           |
+| ---------------------- | --------------------------------- |
+|  **Python**            | Main programming language         |
+|  **Pandas**            | Data loading, cleaning & analysis |
+|  **NumPy**             | Numerical operations              |
+|  **Matplotlib**        | Data visualization                |
+|  **Seaborn**           | Statistical visualization         |
+|  **Jupyter Notebook**  | Interactive analysis              |
+
+</div>
+
+
+---
+
 
 #  Visualizations
 
@@ -140,25 +159,6 @@ Using a logarithmic scale provides a more balanced way to visually examine count
 8. Created categorical bar charts.
 9. Identified the top 15 most populated countries.
 10. Saved the generated visualizations inside the `plots/` directory.
-
----
-
-#  Technologies Used
-
-<div align="center">
-
-
-| Technology             | Purpose                           |
-| ---------------------- | --------------------------------- |
-|  **Python**            | Main programming language         |
-|  **Pandas**            | Data loading, cleaning & analysis |
-|  **NumPy**             | Numerical operations              |
-|  **Matplotlib**        | Data visualization                |
-|  **Seaborn**           | Statistical visualization         |
-|  **Jupyter Notebook**  | Interactive analysis              |
-
-</div>
-
 
 ---
 
