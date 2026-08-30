@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 Task Description
+##  Task Description
 
 > Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
@@ -38,7 +38,7 @@ The goal was not only to create a chart, but also to understand the dataset, ide
 
 ---
 
-# 📈 Visualizations
+#  Visualizations
 
 ## 1. Population Distribution — Histogram & KDE
 
@@ -131,7 +131,7 @@ This provides a quick overview of the population distribution, regional distribu
 ---
 
 
-### 💡 Main Observation
+### Main Observation
 
 The population distribution is **strongly right-skewed**. Most countries have relatively small populations, while a small number of countries have extremely large populations.
 
@@ -156,7 +156,7 @@ Using a logarithmic scale provides a more balanced way to visually examine count
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 <div align="center">
 
@@ -172,38 +172,6 @@ Using a logarithmic scale provides a more balanced way to visually examine count
 
 </div>
 
----
-
-# 📁 Project Structure
-
-```text
-task-01/
-│
-├── API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv
-│   └── World Bank population dataset
-│
-├── Metadata_Country_API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv
-│   └── Country metadata including region & income group
-│
-├── task_01_analysis.py
-│   └── Main Python analysis and visualization script
-│
-├── task_01_notebook.ipynb
-│   └── Step-by-step Jupyter Notebook
-│
-├── requirements.txt
-│   └── Required Python dependencies
-│
-├── README.md
-│   └── Project documentation
-│
-└── plots/
-    ├── fig1_population_histogram.png
-    ├── fig2_region_distribution_barchart.png
-    ├── fig3_income_group_barchart.png
-    ├── fig4_top15_countries_population.png
-    └── fig5_summary_dashboard.png
-```
 
 ---
 
@@ -252,7 +220,7 @@ jupyter lab
 
 ---
 
-# 📚 Dataset
+#  Dataset
 
 The dataset was provided as part of the **Prodigy InfoTech Data Science Internship — Task 01**.
 
@@ -266,7 +234,7 @@ The population data is based on the **World Bank Total Population** indicator.
 
 ---
 
-# 📌 What I Learned
+#  What I Learned
 
 Through this task, I gained practical experience in:
 
