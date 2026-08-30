@@ -113,7 +113,7 @@ Population values are formatted using **Millions (M)** and **Billions (B)** to m
 
 ---
 
-## 5. 📊 Combined Summary Dashboard
+## 5. Combined Summary Dashboard
 
 For presentation purposes, all four major visualizations are also combined into a single dashboard.
 
@@ -130,21 +130,6 @@ This provides a quick overview of the population distribution, regional distribu
 
 ---
 
-# 🔎 Key Findings — 2024
-
-Based on the analysis, the following key observations were identified:
-
-| Metric                           |                           Result |
-| -------------------------------- | -------------------------------: |
-| 🌎 Total Countries Analyzed       |                          **217** |
-| 👥 Total Population Represented   |                **~8.12 Billion** |
-| 📊 Average Population per Country |                **~37.4 Million** |
-| 📍 Median Population per Country  |                 **~6.6 Million** |
-| 🥇 Most Populated Country         |        **India — ~1.45 Billion** |
-| 🥈 Second Most Populated          |        **China — ~1.41 Billion** |
-| 🥉 Third Most Populated           | **United States — ~340 Million** |
-| 🌍 Region with Most Countries     |   **Europe & Central Asia — 58** |
-| 🌍 Second-Most Countries          |      **Sub-Saharan Africa — 48** |
 
 ### 💡 Main Observation
 
@@ -155,30 +140,6 @@ This is why the histogram looks heavily concentrated toward the lower population
 Using a logarithmic scale provides a more balanced way to visually examine countries across a very wide range of population sizes.
 
 ---
-
-# 🧠 Data Science Workflow
-
-The project follows a practical data science workflow:
-
-```text
-Raw Dataset
-     ↓
-Data Loading
-     ↓
-Data Inspection
-     ↓
-Data Cleaning
-     ↓
-Data Preparation
-     ↓
-Exploratory Data Analysis
-     ↓
-Statistical Analysis
-     ↓
-Data Visualization
-     ↓
-Insights & Interpretation
-```
 
 ### Steps performed
 
