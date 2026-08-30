@@ -23,20 +23,7 @@ For this task, I worked with the **World Bank Total Population** dataset and cou
 
 ---
 
-##  Project Overview
 
-The analysis focuses on four main areas:
-
-| Analysis                  | Variable Type            | Visualization    |
-| ------------------------- | ------------------------ | ---------------- |
-| Population distribution   | Continuous               | Histogram + KDE  |
-| Countries by region       | Categorical              | Bar Chart        |
-| Countries by income group | Categorical              | Bar Chart        |
-| Most populated countries  | Continuous / Comparative | Ranked Bar Chart |
-
-The goal was not only to create a chart, but also to understand the dataset, identify patterns, and communicate the findings clearly.
-
----
 
 #  Visualizations
 
