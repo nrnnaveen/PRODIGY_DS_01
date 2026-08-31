@@ -1,15 +1,3 @@
-"""
-Prodigy InfoTech - Data Science Internship
-Task 01: Visualizing Distributions (Bar Chart & Histogram)
-
-This script loads the World Bank population dataset and country metadata,
-cleans the data, and generates clear charts for:
-1. Continuous variable: Country population distribution (Histogram & KDE)
-2. Categorical variable: Number of countries per region (Bar chart)
-3. Categorical variable: Number of countries per income group (Bar chart)
-4. Comparison: Top 15 most populated countries (Bar chart)
-5. Summary dashboard combining all four plots
-"""
 
 import os
 import pandas as pd
