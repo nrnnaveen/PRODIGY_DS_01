@@ -235,14 +235,3 @@ Through this task, I gained practical experience in:
 - Extracting meaningful insights from visualizations
 - Presenting analytical results clearly
 
----
-
-# Conclusion
-
-This task provided practical experience in transforming raw population data into meaningful visual information.
-
-The analysis shows that population sizes vary significantly between countries. While most countries have relatively small populations, a few highly populated countries account for a substantial portion of the total population. The regional and income-group visualizations also provide useful context for understanding how the countries in the dataset are distributed.
-
-Overall, this project helped strengthen my foundation in **Python, Pandas, Exploratory Data Analysis, and Data Visualization**.
-
----
